@@ -1,0 +1,38 @@
+body{
+	text-align: center;
+}
+
+h1{
+	margin: 5rem;
+}
+
+figure{
+	cursor: pointer;
+	display: inline-block;
+	margin: 1rem;
+	padding: 0;
+	text-align: center;
+}
+
+figure img{
+	margin: 0;
+	width: 5rem;
+}
+
+img{
+	margin: 5rem 3rem;
+	position: relative;
+	vertical-align: top;
+	width: 10rem;
+}
+
+#ejemplo{
+	left: 0;
+	position: absolute;
+	top: -4rem;
+}
+
+#resultado{
+	height: 12rem;
+	width: 18rem;
+}
